@@ -1,16 +1,37 @@
 ### Hi there 👋
+# Your Name's Portfolio
 
-<!--
-**Nizar-Esmat/Nizar-Esmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! This repository showcases some of the projects I've worked on and provides information about my skills and experience.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+- **Programming Languages:** c++ , python , html , css , js
+- **Frameworks/Libraries:** study node.js react.js in route acadmy
+- **Database Management:** PostgreSQL
+- **Version Control:**  Git, GitHub
+- **Other Skills:** problem solving
+
+## Experience
+
+- **nass acadmy (web instructor, 10/9/2032 - 10/12/2032):**
+- As a Frontend Web Development Instructor at Nass Academy, I taught HTML, CSS, JavaScript, and Bootstrap to students at beginner and intermediate levels. My responsibilities included designing curriculum, delivering engaging lessons, providing personalized support, guiding students through projects, and staying updated with industry trends to ensure relevance.
+
+
+## Education
+
+- **Bachelor's, computer science (Nahda unvirsty, 2023):**
+- During my time at Nahda University, I developed a passion for problem-solving and took on leadership roles. As a co-founder of Nahdacbc, I collaborated with peers on various projects aimed at fostering innovation and community engagement within the university.
+
+##  🌱 I’m currently learning 
+ ### in FULLStack diploma in route acadmy
+
+## Contact
+
+- **Email:** nizaresmat2000@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nizar-esmat-259690198/))
+- **codecodeforces:** ([https://codeforces.com/profile/nizaresmat2000])
+
+Feel free to reach out to me if you have any questions or opportunities for collaboration!
+
