@@ -1,4 +1,4 @@
-### Hi there 👋 i’m Nizar Esmat
+                                                                                    ### Hi there 👋 i’m Nizar Esmat
 
 
 ## I’m currently foucus
@@ -32,7 +32,7 @@
 ## Contact
 
 - **Email:** nizaresmat2000@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nizar-esmat-259690198/))
+- **LinkedIn:** (https://www.linkedin.com/in/nizar-esmat-259690198/))
 - **codecodeforces:** ([https://codeforces.com/profile/nizaresmat2000])
 
 Feel free to reach out to me if you have any questions or opportunities for collaboration!
