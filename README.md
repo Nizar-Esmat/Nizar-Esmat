@@ -1,9 +1,9 @@
-### Hi there 👋
-# Your Name's Portfolio
-
-Welcome to my GitHub portfolio! This repository showcases some of the projects I've worked on and provides information about my skills and experience.
+### Hi there 👋 i’m Nizar Esmat
 
 
+## I’m currently foucus
+- have more skills in problem solving with c++
+- to become a back-end devopment 
 
 ## Skills
 
@@ -26,6 +26,8 @@ Welcome to my GitHub portfolio! This repository showcases some of the projects I
 
 ##  🌱 I’m currently learning 
  ### in FULLStack diploma in route acadmy
+
+
 
 ## Contact
 
