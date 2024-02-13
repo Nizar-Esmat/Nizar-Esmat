@@ -1,7 +1,6 @@
 ### Hi there 👋 i’m Nizar Esmat
 
-                                                                                <h2>hi nizar</h2>
-
+                                                                               
 ## I’m currently foucus
 - have more skills in problem solving with c++
 - to become a back-end devopment 
