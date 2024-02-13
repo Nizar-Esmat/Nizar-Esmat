@@ -1,6 +1,6 @@
-                                                                                    ### Hi there 👋 i’m Nizar Esmat
+### Hi there 👋 i’m Nizar Esmat
 
-
+<h2 style=" text-algine = 'center' " >s;kcnse</h2>
 ## I’m currently foucus
 - have more skills in problem solving with c++
 - to become a back-end devopment 
