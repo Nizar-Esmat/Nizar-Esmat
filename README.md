@@ -3,11 +3,11 @@
                                                                                
 ## I’m currently foucus
 - have more skills in problem solving with c++
-- to become a back-end devopment 
+- to become a full_stack Developer
 
 ## Skills
 
-- **Programming Languages:** c++ , python , html , css , js
+- **Programming Languages:** c++ , python , html , css , js and Bootstrap
 - **Frameworks/Libraries:** study node.js react.js in route acadmy
 - **Database Management:** PostgreSQL
 - **Version Control:**  Git, GitHub
