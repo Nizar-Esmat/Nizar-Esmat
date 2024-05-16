@@ -15,8 +15,9 @@
 
 ## Experience
 
-- **nass acadmy (web instructor, 10/9/2032 - 10/12/2032):**
-- As a Frontend Web Development Instructor at Nass Academy, I taught HTML, CSS, JavaScript, and Bootstrap to students at beginner and intermediate levels. My responsibilities included designing curriculum, delivering engaging lessons, providing personalized support, guiding students through projects, and staying updated with industry trends to ensure relevance.
+- **nass acadmy (web instructor):**
+- As a Frontend Web Development Instructor at Nass Academy, I taught HTML, CSS, JavaScript, and Bootstrap to students at beginner and intermediate levels.
+-  My responsibilities included designing curriculum, delivering engaging lessons, providing personalized support, guiding students through projects, and staying updated with industry trends to ensure relevance.
 
 
 ## Education
