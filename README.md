@@ -2,7 +2,7 @@
 
                                                                                
 ## I’m currently foucus
-- haveing more skills in problem solving with c++
+- having more skills in problem solving with c++
 - to become a full_stack Developer
 
 ## Skills
