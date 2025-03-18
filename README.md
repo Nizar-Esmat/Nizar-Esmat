@@ -2,7 +2,8 @@
 
 🚀 **Software Engineer | Full-Stack Developer | Competitive Programmer**  
 
-I’m a passionate **problem solver** and **web developer** with expertise in **React, Node.js, MongoDB, PostgreSQL, and Python**. My journey in tech has been fueled by my love for algorithms, data structures, and building scalable web applications.  
+I’m a passionate **problem solver** and **web developer** with expertise in **React, Node.js, MongoDB, PostgreSQL, and Python**.
+My journey in tech has been fueled by my love for algorithms, data structures, and building scalable web applications.  
 
 ## 🏆 Achievements  
 - 🥈 **2nd Place in ECPC Qualifications (2021 & 2023)**  
