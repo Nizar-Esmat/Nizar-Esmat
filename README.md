@@ -19,9 +19,8 @@ My journey in tech has been fueled by my love for algorithms, data structures, a
 - **Other:**  Git, Linux  
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nizaresmat)  
-- 🌐 [Portfolio](#) (Coming Soon)  
-- 🐦 [Twitter](https://twitter.com/NizarEsmat)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nizar-esmat-259690198/)  
+- 🌐 [Portfolio](https://portofilo-psi.vercel.app/)   
 
 ⚡ **Always open to collaborations and learning new technologies!**
 
