@@ -12,10 +12,10 @@ I’m a passionate **problem solver** and **web developer** with expertise in **
 - 💡 **Full-Stack Developer** – experienced in building complete web applications with modern technologies  
 
 ## 🛠 Tech Stack  
-- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Django  
 - **Databases:** MongoDB, PostgreSQL  
-- **Other:** Docker, AWS, Git, Linux  
+- **Other:**  Git, Linux  
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nizaresmat)  
