@@ -10,7 +10,6 @@ My journey in tech has been fueled by my love for algorithms, data structures, a
 - 🎓 **ITI Graduate – Full-Stack Development (Python Track)**  
 - 🎯 **Co-founder & Leader of NahdaCPC** – mentoring students in problem-solving and competitive programming  
 - 🏅 **ICPC Volunteer & Technical Instructor** – helping students excel in coding competitions  
-- 💡 **Full-Stack Developer** – experienced in building complete web applications with modern technologies  
 
 ## 🛠 Tech Stack  
 - **Frontend:** React.js, Tailwind CSS  
