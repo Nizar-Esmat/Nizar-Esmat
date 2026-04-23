@@ -1,25 +1,46 @@
-# Hi there, I'm Nizar Esmat! 👋  
+# Nizar Esmat Fawzy
 
-🚀 **Software Engineer | Full-Stack Developer | Competitive Programmer**  
+Software Engineer focused on backend systems, full-stack applications, real-time products, and database-driven platforms.
 
-I’m a passionate **problem solver** and **web developer** with expertise in **React, Node.js, MongoDB, PostgreSQL, and Python**.
-My journey in tech has been fueled by my love for algorithms, data structures, and building scalable web applications.  
+Currently: Software Engineer @ Opream (React, NestJS, PostgreSQL)  
+Previously: Full Stack Developer Intern @ ITI (Python, Django, PostgreSQL)  
+Teaching: Software & Web Development Instructor @ iSchool & WE School  
 
-## 🏆 Achievements  
-- 🥈 **2nd Place in ECPC Qualifications (2021 & 2023)**  
-- 🎓 **ITI Graduate – Full-Stack Development (Python Track)**  
-- 🎯 **Co-founder & Leader of NahdaCPC** – mentoring students in problem-solving and competitive programming  
-- 🏅 **ICPC Volunteer & Technical Instructor** – helping students excel in coding competitions  
+## Featured work
 
-## 🛠 Tech Stack  
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Django  
-- **Databases:** MongoDB, PostgreSQL  
-- **Other:**  Git, Linux  
+- **Real-Time Chat Application**: full-stack chat platform with WebSocket communication, media uploads, and live messaging.
+- **ITI Social Media Platform**: full-stack social platform with Django, PostgreSQL, REST APIs, and React.
+- **Saraha App**: secure anonymous messaging REST API using JWT, bcryptjs, and AES encryption.
+- **Good Reads Application**: MERN-based online bookstore with authentication and dynamic frontend rendering.
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nizar-esmat-259690198/)  
-- 🌐 [Portfolio](https://portofilo-psi.vercel.app/)   
+## Toolbox
 
-⚡ **Always open to collaborations and learning new technologies!**
+- **Backend:** Node.js, NestJS, Express.js, Django
+- **Frontend:** React
+- **Data:** PostgreSQL, MongoDB, SQL, ETL, query optimization, data modeling
+- **Engineering:** REST APIs, SDLC, OOP, system architecture, real-time apps, authentication
+- **Tools:** Git, GitHub, Docker, Linux, Bash, CI/CD
+- **Also:** C++, problem solving, competitive programming
 
+## Highlights
+
+- Built full-stack systems and RESTful APIs across the software development lifecycle.
+- Designed normalized PostgreSQL schemas with indexing and query optimization.
+- Worked on real production systems spanning frontend, backend, and database layers.
+- Competitive programming background through ECPC / ACPC / ICPC.
+
+## Writing code, shipping products, and solving problems with a backend-first mindset.
+
+## Links
+
+- **GitHub:** https://github.com/Nizar-Esmat
+- **LinkedIn:** https://www.linkedin.com/in/nizar-esmat-259690198
+- **Codeforces:** https://codeforces.com/profile/nizaresmat2000
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-light.svg">
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-light.svg">
+</picture>
