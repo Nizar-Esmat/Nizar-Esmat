@@ -14,12 +14,6 @@ Currently: Software Engineer @ Opream (React, NestJS, PostgreSQL)
 Previously: Full Stack Developer Intern @ ITI (Python, Django, PostgreSQL)  
 Teaching: Software & Web Development Instructor @ iSchool & WE School  
 
-## Featured work
-
-- **Real-Time Chat Application**: full-stack chat platform with WebSocket communication, media uploads, and live messaging.
-- **ITI Social Media Platform**: full-stack social platform with Django, PostgreSQL, REST APIs, and React.
-- **Saraha App**: secure anonymous messaging REST API using JWT, bcryptjs, and AES encryption.
-- **Good Reads Application**: MERN-based online bookstore with authentication and dynamic frontend rendering.
 
 ## Toolbox
 
