@@ -1,5 +1,3 @@
-# Nizar Esmat Fawzy
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-light.svg">
@@ -7,6 +5,7 @@
 </picture>
 
 
+# Nizar Esmat Fawzy
 
 Software Engineer focused on backend systems, full-stack applications, real-time products, and database-driven platforms.
 
