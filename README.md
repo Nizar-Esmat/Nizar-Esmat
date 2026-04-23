@@ -1,5 +1,13 @@
 # Nizar Esmat Fawzy
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-light.svg">
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-light.svg">
+</picture>
+
+
+
 Software Engineer focused on backend systems, full-stack applications, real-time products, and database-driven platforms.
 
 Currently: Software Engineer @ Opream (React, NestJS, PostgreSQL)  
@@ -36,11 +44,4 @@ Teaching: Software & Web Development Instructor @ iSchool & WE School
 - **GitHub:** https://github.com/Nizar-Esmat
 - **LinkedIn:** https://www.linkedin.com/in/nizar-esmat-259690198
 - **Codeforces:** https://codeforces.com/profile/nizaresmat2000
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-light.svg">
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/Nizar-Esmat/Nizar-Esmat/github-breakout/images/breakout-light.svg">
-</picture>
+](url)
